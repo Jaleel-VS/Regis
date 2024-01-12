@@ -1,0 +1,15 @@
+# Dotnet files/folders to ignore
+
+bin/
+obj/
+
+# SvelteKit files/folders to ignore
+
+node_modules/
+web_modules/
+build/
+
+# other
+
+.env
+.env.*
